@@ -1,0 +1,11 @@
+venv/
+
+__pycache__/
+*.pyc
+
+scheduler.db
+
+.env
+
+.vscode/
+.idea/
